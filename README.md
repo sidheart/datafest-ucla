@@ -4,7 +4,7 @@ an Expedia dataset.
 
 ## Meaning
 The first map shows the number of days in advance a particular consumer was looking for a hotel in the 
-month of December.
+month of December. A pdf of our presentation can be found in the res folder!
 
 ## CSV format
 The csv format is "latitude,longitude,weight" where weight is an integer or float correlated with the 
