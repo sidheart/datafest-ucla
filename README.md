@@ -1,4 +1,4 @@
-# Datafest 2017
+# UCLA Datafest 2017
 A project which renders a map with points based on csv data. The map represents a certain aspect of
 an Expedia dataset.
 
